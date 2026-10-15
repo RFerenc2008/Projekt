@@ -1,0 +1,31 @@
+Név;Csapat;Gólok;Életkor
+Jude Bellingham;Real Madrid;20;23
+Pau Cubarsí;Barcelona;1;19
+Marc Cucurella;Chelsea;3;28
+Ousmane Dembélé;Paris Saint-Germain;15;29
+Luis Díaz;Bayern München;21;29
+Bruno Fernandes;Manchester United;19;32
+Gabriel;Arsenal;5;28
+Erling Haaland;Manchester City;43;26
+Achraf Hakimi;Paris Saint-Germain;8;27
+Harry Kane;Bayern München;40;33
+Khvicha Kvaratskhelia;Paris Saint-Germain;17;25
+Lamine Yamal;Barcelona;21;19
+Sadio Mané;Al-Nassr;24;34
+Marquinhos;Paris Saint-Germain;4;32
+Lautaro Martínez;Inter;29;29
+Kylian Mbappé;Real Madrid;45;27
+Nuno Mendes;Paris Saint-Germain;4;24
+Lionel Messi;Inter Miami;29;39
+João Neves;Paris Saint-Germain;5;21
+Michael Olise;Bayern München;18;24
+Willian Pacho;Paris Saint-Germain;1;24
+Julián Quiñones;Al-Qadsiah;21;29
+Declan Rice;Arsenal;8;27
+Rodri;Manchester City;9;30
+Fabián Ruiz;Paris Saint-Germain;7;30
+William Saliba;Arsenal;3;25
+Ferran Torres;Barcelona;16;26
+Dayot Upamecano;Bayern München;3;27
+Vinícius Júnior;Real Madrid;27;26
+Vitinha;Paris Saint-Germain;7;26rid;9;23
